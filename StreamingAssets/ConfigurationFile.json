@@ -1,0 +1,60 @@
+{
+    "roomname": "",
+    "listOfPresentations": {
+        "presentations": [
+            {
+                "index": 1,
+                "thumbnailLink": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide01.png",
+                "presentationData": [
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide01.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide02.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide03.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide04.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide05.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide06.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide07.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide08.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide09.png"
+                    },
+                    {
+                        "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Presentations/1/Slide10.png"
+                    }
+                ]
+            }
+        ]
+    },
+    "listOfVideos": {
+        "videos": [
+            {
+                "index": 1,
+                "thumbnailLink": "https://indibuff.s3.ap-south-1.amazonaws.com/Videos/1/Thumbnail/video_thumbnail.png",
+                "link": "https://indibuff.s3.ap-south-1.amazonaws.com/Videos/1/DemoVideo.mp4"
+            }
+        ]
+    },
+    "listOfPdfs": {
+        "pdfs": [
+            {
+                "index": 1,
+                "link": "https://jcbclient.s3.ap-south-1.amazonaws.com/PDFs/1/JCB+NXT+140+_+Brochure_21.pdf"
+            }
+        ]
+    }
+}
